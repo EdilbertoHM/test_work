@@ -1,7 +1,7 @@
 
 Run `ng serve` en cliente para levantamiento de: `http://localhost:4200/`
 
-Run `ng build` para contrucción 
+Run `ng build` para construcción 
 
 ## Running unit tests
 
